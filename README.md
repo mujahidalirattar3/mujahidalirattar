@@ -2,7 +2,7 @@
 # Portfolio
 A sleek, responsive web portfolio built with ReactJS and Tailwind CSS featuring elegant design, intuitive navigation, and seamless deployment via GitHub Pages.
 =======
-# 🚀 Saam Sheron Portfolio
+# 🚀 Mujahid Ali Rattar Portfolio
 
 Welcome to my portfolio repository! This project showcases my work as a **Web Developer** and highlights my projects, skills, and professional achievements.
 
@@ -73,10 +73,9 @@ public/
 
 ## 📧 Contact Me
 Feel free to reach out:  
-- **Portfolio**: [saam-sheron.vercel.app](https://saam-sheron.vercel.app/)  
-- **Email**: saamsallvin@gmail.com  
-- **LinkedIn**: [linkedin.com/in/saam-sheron](https://linkedin.com/in/saam-sheron)  
-- **GitHub**: [github.com/saam-rgb](https://github.com/saam-rgb)  
+- **Email**: mujahidalirattar15@gmail.com  
+- **LinkedIn**: [linkedin.com/in/mujahidalirattar](https://linkedin.com/in/mujahidalirattar)  
+- **GitHub**: [github.com/mujahidalirattar3](https://github.com/mujahidalirattar3)  
 
 ---
 
@@ -109,5 +108,5 @@ This project is **open-source** and available under the MIT License.
 
 ---
 
-### 🎨 Designed & Developed by [**Saam Sheron**](https://linkedin.com/in/saam-sheron)  
+### 🎨 Designed & Developed by [**Mujahid Ali Rattar**](https://linkedin.com/in/mujahidalirattar)  
 >>>>>>> 0987936 (Initial commit)
