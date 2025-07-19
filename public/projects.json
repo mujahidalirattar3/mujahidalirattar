@@ -1,0 +1,49 @@
+[
+  {
+    "name": "RMS",
+    "category": "fullStack",
+    "description": "A Railway management app built with MongoDB, Apache Server, SQL, and responsive website to collect data in background",
+    "site": "",
+    "github": "https://www.github.com/mujahidalirattar3",
+    "image": "RMS.jpg",
+    "alt": "RMS"
+  },
+  {
+    "name": "IMS",
+    "category": "frontend",
+    "description": " A responsive single-page website for an Backery built with HTML, CSS, and MongoDB.",
+    "site": "",
+    "github": "https://www.github.com/mujahidalirattar3",
+    "image": "IMS.jpeg",
+    "alt": "IMS"
+  },
+  {
+    "name": "To-Do List",
+    "category": "frontend",
+    "description": "A to-do list application to help users manage their tasks effectively.",
+    "site": "",
+    "github": "https://www.github.com/mujahidalirattar3",
+    "image": "todo.jpeg",
+    "alt": "Task Hub - To-do list application for task management"
+  },
+  
+  {
+    "name": "Death Calculator",
+    "category": "backend",
+    "description": "A backend project that demonstrates CRUD operations with MongoDB.",
+    "site": "",
+    "github": "https://www.github.com/mujahidalirattar3",
+    "image": "death.png",
+    "alt": "death"
+  },
+
+  {
+    "name": "Sign Up Page",
+    "category": "uiUX",
+    "description": "A UI/UX project that demonstrates Sign Up Page.",
+    "site": "",
+    "github": "https://www.github.com/mujahidalirattar3",
+    "image": "mongocrud.png",
+    "alt": "Sign Up"
+  }
+]
